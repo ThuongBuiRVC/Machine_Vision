@@ -68,8 +68,6 @@ Bộ dữ liệu huấn luyện bao gồm các hình ảnh khuôn mặt của ng
 3. Cắt & lưu ảnh nếu có khuôn mặt  
 4. Nếu không có → sao chép ảnh gốc sang `output_folder`
 
----
-
 ### Bước 2: Phát hiện đặc trưng (mắt hoặc mặt)
 
 - Bước này dùng để loại bỏ những ảnh không phải khuôn mặt (ảnh background) khỏi tập dữ liệu. 
