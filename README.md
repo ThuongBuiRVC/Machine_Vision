@@ -31,6 +31,8 @@ Bộ dữ liệu huấn luyện bao gồm các hình ảnh khuôn mặt của ng
 - **Class 2 (Đeo khẩu trang sai cách)**: 250 ảnh
 - **Class 3 (Không đeo khẩu trang)**: 250 ảnh
 
+---
+
 ### Cấu hình phần cứng thử nghiệm
 
 - **Thiết bị**: Raspberry Pi 5 – RAM 8GB  
@@ -38,6 +40,8 @@ Bộ dữ liệu huấn luyện bao gồm các hình ảnh khuôn mặt của ng
 - **CPU**: Intel Core i7-10850H  
 - **GPU**: Không sử dụng GPU  
 - **Camera**: NetCAM PC 930 – 30 FPS
+
+---
 
 ## Kết Quả Đạt Được
 
