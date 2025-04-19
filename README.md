@@ -44,7 +44,7 @@ Bộ dữ liệu huấn luyện bao gồm các hình ảnh khuôn mặt của ng
 - **Độ chính xác trên tập validation và training với metric accuracy**: > 99%
 - **Độ chính xác trên tập testing**: > 99%
 
-### 🖥️ **Hiệu suất FPS**:
+### **Hiệu suất FPS**:
 
 - **Trên PC với webcam**: Khoảng **20 FPS**
 - **Trên Raspberry Pi 5**: Khoảng **15 FPS**
